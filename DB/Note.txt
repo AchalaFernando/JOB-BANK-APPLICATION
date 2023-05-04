@@ -1,0 +1,28 @@
+
+
+Database Name : PROdb
+Tables : SignUp - Id (Auto Generate Primary key)
+		  UserName
+		  Email
+		  Password
+		  ConfirmPassword
+
+         AdminLogin - UserName (Primary Key)
+		      Password
+
+         Applications - Id (Auto Generate Primary key)
+			FullName
+			Age
+			Address
+			DOB
+			Email
+			Religion
+			Gender
+			PassportNo
+			NIC_No
+			EducationalQualifications
+			ProfessionalQualifications
+			ProfessionalExperiences
+			MedicalStatus
+			Date
+			SelectedVacancy
